@@ -116,5 +116,6 @@ HTTPS is **HTTP with TLS encryption**.
 
 ## Handwritten Notes Reference
 
-![notes](notes.jpg)
+![notes](notes1.jpg)
+![notes](notes2.jpg)
 
