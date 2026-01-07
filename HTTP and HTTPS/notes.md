@@ -107,13 +107,6 @@ HTTPS is **HTTP with TLS encryption**.
 
 ---
 
-## Interview Notes
-- HTTP is stateless, but state is managed at application level
-- HTTPS is mandatory for secure communication
-- TLS uses asymmetric encryption for key exchange and symmetric encryption for data transfer
-
----
-
 ## Handwritten Notes Reference
 
 ![notes](notes1.jpg)
