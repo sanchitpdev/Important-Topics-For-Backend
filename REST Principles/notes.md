@@ -55,13 +55,10 @@ In REST, everything is treated as a **resource**.
 - Resources are usually nouns, not actions
 
 Examples:
-```
 
 /users
 /users/1
 /orders/10
-
-```
 
 Operations on resources are performed using standard methods instead of action-based URLs.
 
@@ -110,7 +107,6 @@ REST supports a layered architecture.
 - REST encourages consistency, scalability, and simplicity
 
 REST principles act as a **blueprint for designing APIs**, while leaving implementation choices open.
-```
 
 ---
 ## Handwritten Notes Reference
