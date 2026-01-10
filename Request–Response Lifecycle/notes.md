@@ -112,6 +112,6 @@ Once the response is handled, the lifecycle is complete.
 
 ---## Handwritten Notes Reference
 
-![notes](notes1.jpg)
-![notes](notes2.jpg)
+![note](notes1.jpg)
+![note](notes2.jpg)
 
